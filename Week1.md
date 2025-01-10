@@ -77,11 +77,11 @@ Height: 4
 ####  ####
 ```
 
-Der Abstand zwischen beiden Pyramiden hat die Breite von zwei "Hashes" unabhöngig der Höhe der Pyramide.
+Der Abstand zwischen beiden Pyramiden hat die Breite von zwei "Hashes" unabhängig der Höhe der Pyramide.
 
 ## Deinen Code testen:
 
-Funktioniert dein Code wie beaabsichtigt bei folgender Eingabe?
+Funktioniert dein Code wie beabsichtigt bei folgender Eingabe?
 
 - -1 (oder andere negative Zahlen)?
 - 0?
